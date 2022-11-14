@@ -1,0 +1,22 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "simple node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mukesh10082002/test-node.git"
+  },
+  "author": "Sahadev Bhaganagare <sahadevbh8@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mukesh10082002/test-node/issues"
+  },
+  "homepage": "https://github.com/Mukesh10082002/test-node#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
